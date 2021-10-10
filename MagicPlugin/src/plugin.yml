@@ -1,0 +1,35 @@
+name: MagicPlugin
+version: 0.0.1
+author: Koaxy
+main: com.koaxy.magic.MagicPlugin
+api-version: 1.15
+commands:
+  heal:
+    description: Heal's you're health to full!
+    usage: /<command>
+    aliases: healme
+  feed:
+     description: feeds's your hunger!
+     usage: /<command>
+     aliases: feedme
+  farmtime:
+    description: Spawns a specified farm/mob animal
+    usage: /<commands>
+  givewand:
+    description:  gives you special want
+    usage: /<commands>
+  ci:
+    description: Clear's users inventory
+    usage: /<commands>
+  fly:
+    description: Allow's a user to fly!!
+    usage: /<commands>
+  gmc:
+    description: Set's your gamemode to Creative!
+    usage: /<commands>
+  gms:
+    description: Set's your gamemode to Survival!
+    usage: /<commands>
+  gmsp:
+    description: Set's your gamemode to Spectator mode.
+    usage: /<commands>
