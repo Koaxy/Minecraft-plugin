@@ -2,6 +2,10 @@
 This is a minecraft plugin made for 1.16.5 feel free to use it.
 EDIT: here is a list of permissions you can assign to your user group's if you use Permissions EX or Group Manager.
 
+```java
+main.init()
+```
+
 ```
 MagicCommand.heal -- Give's user access to heal them selfs.
 MagicCommand.feed -- Give's user access to feed them selfs
